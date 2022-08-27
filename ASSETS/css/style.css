@@ -1,0 +1,48 @@
+h1{
+    color: rgb(10, 10, 10);
+    font-size: 50px;
+    background-repeat: no-repeat;
+    background-image: url("../img/supplier.jpg");>
+    background-size: cover;
+    padding: 1% 5% 10% 12%;
+    width: 30rem;
+    
+    }
+p{
+    background-color: rgb(128, 113, 113);
+    border: 1rem solid black;
+    width: 30rem;
+    font-size: 2rem;
+    padding-left: 5%;
+    }
+
+.primero{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 800px;
+    top: 350px;
+}
+.segundo{
+    color: whitesmoke;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 800px;
+    top: 350px;
+}
+.tercero{
+    color: rgb(39, 4, 196);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 800px;
+    top: 350px;
+}
+.pie{
+    color: rgb(8, 8, 8);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 800px;   
+}
